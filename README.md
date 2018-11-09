@@ -32,7 +32,7 @@ Esc: Quit
 <br/>
 
 # Downloads:
-Windows version: [coming soon]
+Windows version: https://github.com/MitenkovVanya/Worms-Paint-Composer/tree/master/win-1.0
 <br/>
 <br/>
 
